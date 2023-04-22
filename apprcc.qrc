@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="img">
+    <file>icon/open_file.png</file>
+    <file>icon/circle.png</file>
+    <file>icon/camera_off.png</file>
+    <file>icon/camera_on.png</file>
+    <file>icon/import_model.png</file>
+    <file>icon/Snipaste_2023-04-18_22-26-28.png</file>
+    <file>icon/pause.png</file>
+    <file>icon/hamburger-button.png</file>
+    <file>icon/1042390.png</file>
+    <file>icon/Background~1.png</file>
+    <file>icon/conan.png</file>
+    <file>icon/Background.jpg</file>
+    <file>icon/Background.jpg</file>
+    <file>icon/uon.png</file>
+    <file>icon/bj.png</file>
+    <file>icon/bj.png</file>
+    <file>icon/button-off.png</file>
+    <file>icon/button-on.png</file>
+    <file>icon/drop_white.png</file>
+    <file>icon/conan.png</file>
+    <file>icon/doctor.png</file>
+    <file>icon/evil.png</file>
+    <file>icon/background.jpg</file>
+    <file>icon/pause_black.png</file>
+    <file>icon/stop.png</file>
+  </qresource>
+</RCC>
