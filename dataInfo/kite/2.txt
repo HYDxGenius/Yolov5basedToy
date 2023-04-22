@@ -1,0 +1,1 @@
+A lightweight toy that is flown in the air by a string, usually shaped like a diamond or triangle.

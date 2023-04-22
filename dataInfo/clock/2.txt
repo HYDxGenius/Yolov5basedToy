@@ -1,0 +1,1 @@
+A device that shows the time and helps people keep track of it.
