@@ -39,4 +39,25 @@ There are no differences besides the TTS API.
 
 ## Usage Examples
 
+![UI description](https://github.com/HYDxGenius/Yolov5basedToy/blob/main/readmeimg/UI.png?raw=true)
 
+ Model Selection Module: It can select Model from local files. 
+
+Input Source Choice Module: It can select different source as input for application to detect. 
+
+Parameter adjustment Module : It can adjust parameters of IoU and Conf. 
+
+Result Comparison Module : This is the most important and fundamental module of the application. 
+
+
+Results display Module: This part is achieved to improve children's cognitive ability. 
+
+
+## Copyright and License
+[Licence](https://github.com/HYDxGenius/Yolov5basedToy/blob/main/LICENSE)
+## Version History
+
+List the historical versions of your project and significant updates.
+
+## Contact Information
+This is for my Final Year Project, So if there is any questions please Contact me at [Yundi Hong](scyyh8@nottingham.ac.uk)
