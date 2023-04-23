@@ -34,9 +34,9 @@ python mainVer2Local.py
 ```
 It is a Microsoft TTS included in your Win10 or Win11.
 
-There are no differences beside the tts API. 
+There are no differences besides the TTS API. 
 
 
 ## Usage Examples
 
-Provide code snippets or screenshots demonstrating how to use your project. For example:
+
