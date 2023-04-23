@@ -537,7 +537,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         try:
             tts = gTTS(text=result, lang='en', slow=False)
             tts.save(file_name)
-            playsound('1sec_silence.mp3', block=True)
+            # playsound('1sec_silence.mp3', block=True)
             playsound(file_name)
             os.remove(file_name)
         except Exception as e:
@@ -576,7 +576,8 @@ class MainWindow(QMainWindow, Ui_MainWindow):
             self.results = []
             for i in range(len(value)):
                 self.results.append(self.resultname_catcher[i] + ":" + self.value_catcher[i])
-            self.resultWidget.addItems(self.results)
+            if self.det_thread.is_continue == False:
+                self.resultWidget.addItems(self.results)
         except Exception as e:
             print(repr(e))
 
