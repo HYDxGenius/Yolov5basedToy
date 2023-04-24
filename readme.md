@@ -30,7 +30,7 @@ It is using [Google TTS](https://cloud.google.com/text-to-speech)
 
 If you want to run it offline without internet connection, begin with 
 ```
-python mainVer2Local.py
+python mainVer2Local.py1
 ```
 It is a Microsoft TTS included in your Win10 or Win11.
 
