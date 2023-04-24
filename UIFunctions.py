@@ -5,6 +5,8 @@ from custom_grips import CustomGrip
 
 from mainVer2 import MainWindow
 
+
+
 GLOBAL_STATE = False  # Global variable to store the state of the window
 GLOBAL_TITLE_BAR = True
 
