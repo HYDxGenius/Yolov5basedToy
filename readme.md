@@ -57,8 +57,5 @@ Results display Module: This part is achieved to improve children's cognitive ab
 
 
 ## Contact Information
-<<<<<<< HEAD
 This is for my Final Year Project, So if there is any questions please Contact me at scyyh8@nottingham.ac.uk
-=======
-This is for my Final Year Project, So if there is any questions please Contact me at scyyh8@nottingham.ac.uk
->>>>>>> a5b4d48715a64f7b7936335ac6cba3ea0c7351c8
+
